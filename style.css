@@ -1,0 +1,49 @@
+ul{
+    list-style: none;
+    background: rgba(0, 255, 245, 0.45)
+}
+ul li{
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+    margin-left: 140px;
+}
+ul li a{
+    text-decoration: none;
+    padding:20px;
+    color: darkblue;
+}
+ul li a:hover{
+    background: rgba(18, 221, 221, 0.98);
+    color:rgba(59, 0, 255, 0.89);
+    text-decoration: underline;
+}
+h1{
+    padding:30px;
+    background: yellow;
+    color: #358a9a;
+    text-align: center;
+    font-size: 50px;
+}
+h1:hover{
+    background: black;
+    text-decoration: underline;
+    color: orangered;
+}
+p{
+    font-size: 35px;
+    text-align: center;
+    background: #ff8000;
+    padding: 20px;
+}
+p:hover{
+    background: yellow;
+    text-decoration: underline;
+    text-decoration-color: dimgrey;
+    color:darkslategrey;
+}
+img{
+    width: 1170px;
+    height: 700px;
+    margin-left: 80px;
+}
